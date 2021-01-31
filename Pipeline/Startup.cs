@@ -15,7 +15,7 @@ namespace Pipeline
     public class Startup
     {
         public Startup(IConfiguration configuration)
-        {
+        { // Changes made to this file
             Configuration = configuration;
         }
 
